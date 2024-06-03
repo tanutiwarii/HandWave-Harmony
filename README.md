@@ -1,1 +1,0 @@
-Our project utilizes gesture recognition for real-time simulation of musical instruments and audio manipulation, such as chorus and echo effects, as well as regulating vocal pitch and bass with hand gestures. Users can perform virtual musical instruments, like a piano, using hand gestures. The system was developed using Python, leveraging its powerful libraries and tools.
